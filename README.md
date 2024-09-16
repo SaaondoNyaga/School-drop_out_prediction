@@ -1,0 +1,1 @@
+This is a model on students drop-out prediction. The first phase of this project basically contains data wrangling, taking care of null values, outliers, changing features and its content to appropriate data types. Also included is the descriptive statistics and a short report about my findings.
